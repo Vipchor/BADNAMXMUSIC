@@ -8,12 +8,12 @@ def start_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text=_["S_B_1"], url=f"https://t.me/riya_music_robot?startgroup=true"
+                text=_["S_B_1"], url=f"https://t.me/KANHA_MIX_MUSIC_bot?startgroup=true"
             ),
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_CHAT),
         ],
     ]
-    return buttons
+    return buttonshttps://t.me/KANHA_MIX_MUSIC_bot?startgroup=true
 
 
 def private_panel(_):
