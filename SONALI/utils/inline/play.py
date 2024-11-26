@@ -79,7 +79,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
             InlineKeyboardButton(text="✰ ϙυҽҽɳ ✰", url="https://t.me/rrstudytg",),
         ],
         [
-            InlineKeyboardButton(text="✙ ᴋɪᴅɴᴀᴘ ᴍᴇ ✙", url="https://t.me/riya_music_robot?startgroup=true",),
+            InlineKeyboardButton(text="✙ ᴋɪᴅɴᴀᴘ ᴍᴇ ✙", url="https://t.me/riyaxmusicbot?startgroup=true",),
         ],
         [
             InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")
@@ -103,7 +103,7 @@ def stream_markup(_, videoid, chat_id):
             InlineKeyboardButton(text="✰ ϙυҽҽɳ ✰", url="https://t.me/rrstudytg",),
         ],
         [
-            InlineKeyboardButton(text="✙ ᴋɪᴅɴᴀᴘ ᴍᴇ ✙", url="https://t.me/riya_music_robot?startgroup=true",),
+            InlineKeyboardButton(text="✙ ᴋɪᴅɴᴀᴘ ᴍᴇ ✙", url="https://t.me/riyaxmusicbot?startgroup=true",),
         ],
         [
             InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")
