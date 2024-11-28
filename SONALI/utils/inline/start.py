@@ -13,7 +13,7 @@ def start_panel(_):
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_CHAT),
         ],
     ]
-    return buttonshttps://t.me/KANHA_MIX_MUSIC_bot?startgroup=true
+    return buttons
 
 
 def private_panel(_):
@@ -21,7 +21,7 @@ def private_panel(_):
         [
             InlineKeyboardButton(
                 text=_["S_B_3"],
-                url=f"https://t.me/riya_music_robot?startgroup=true",
+                url=f"https://t.me/KANHA_MIX_MUSIC_bot?startgroup=true",
             )
         ],
         [InlineKeyboardButton(text=_["S_B_4"], callback_data="settings_back_helper")],
